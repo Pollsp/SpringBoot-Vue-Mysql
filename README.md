@@ -1,7 +1,7 @@
 # Spring+Vue前后端分离-后台管理系统
+<p>后台管理系统</p>
 
-<p style="font-size: 30px; margin-left: 20%;">后台管理系统</p>
-<div>
+<div style="color: blanchedalmond;">
   实现最基本的增删改查操作 做了简单的权限认证与token管理
 但数据传送格式等等没有安全措施，不推荐上线
 供个人开发学习，支持二次开发。
