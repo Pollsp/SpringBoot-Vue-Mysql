@@ -1,0 +1,201 @@
+@font-face {
+  font-family: "iconfont"; /* Project id 4225893 */
+  src: url('iconfont.woff2?t=1693020540299') format('woff2'),
+       url('iconfont.woff?t=1693020540299') format('woff'),
+       url('iconfont.ttf?t=1693020540299') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+[class^="icon-Albb"], [class*=" icon-Albb"]/*这里有空格*/
+
+{
+    font-family: "iconfont" !important;
+    font-size: 16px;
+    font-style: normal;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-Albbyunshangchuan:before {
+  content: "\e609";
+}
+
+.icon-Albbshoucang:before {
+  content: "\e60a";
+}
+
+.icon-Albbgouwuchekong:before {
+  content: "\e60b";
+}
+
+.icon-Albbquanping:before {
+  content: "\e60c";
+}
+
+.icon-Albbgouwuchexuanzhong:before {
+  content: "\e60d";
+}
+
+.icon-Albbmoney:before {
+  content: "\e663";
+}
+
+.icon-Albbsearch:before {
+  content: "\e623";
+}
+
+.icon-Albbfenxiang:before {
+  content: "\e86e";
+}
+
+.icon-Albbwenhao:before {
+  content: "\e60e";
+}
+
+.icon-Albbgouwuche-tianchong:before {
+  content: "\e70c";
+}
+
+.icon-Albbshanchu:before {
+  content: "\e718";
+}
+
+.icon-Albbmessage:before {
+  content: "\e78a";
+}
+
+.icon-Albbfenxiang1:before {
+  content: "\eb24";
+}
+
+.icon-AlbbMagnifier:before {
+  content: "\e62d";
+}
+
+.icon-Albbbianjisekuai:before {
+  content: "\ec7c";
+}
+
+.icon-Albbtianxie:before {
+  content: "\ec88";
+}
+
+.icon-Albbpeople:before {
+  content: "\e654";
+}
+
+.icon-Albbmessage1:before {
+  content: "\e646";
+}
+
+.icon-Albbpeoples:before {
+  content: "\e61b";
+}
+
+.icon-Albbmessage2:before {
+  content: "\e60f";
+}
+
+.icon-Albbmoney-rmb-symbol:before {
+  content: "\e831";
+}
+
+.icon-Albbmail1:before {
+  content: "\e7bd";
+}
+
+.icon-Albbmail:before {
+  content: "\e812";
+}
+
+.icon-Albbpermissions:before {
+  content: "\e64f";
+}
+
+.icon-Albbpdf:before {
+  content: "\e78e";
+}
+
+.icon-Albbdashboard:before {
+  content: "\e78b";
+}
+
+.icon-Albbdashboard-fill:before {
+  content: "\e849";
+}
+
+.icon-Albbtab:before {
+  content: "\e600";
+}
+
+.icon-Albbtheme:before {
+  content: "\e601";
+}
+
+.icon-Albbexcel:before {
+  content: "\e602";
+}
+
+.icon-Albbexternal-link:before {
+  content: "\e832";
+}
+
+.icon-Albbdocument:before {
+  content: "\e6f3";
+}
+
+.icon-Albbdocument_fill:before {
+  content: "\e6f4";
+}
+
+.icon-Albbexample:before {
+  content: "\e603";
+}
+
+.icon-Albbnested:before {
+  content: "\e605";
+}
+
+.icon-Albbzip:before {
+  content: "\e606";
+}
+
+.icon-Albbclipboard:before {
+  content: "\e62a";
+}
+
+.icon-Albbic_error_px:before {
+  content: "\e670";
+}
+
+.icon-AlbbCharts-19:before {
+  content: "\e6cc";
+}
+
+.icon-Albbshijian:before {
+  content: "\e67f";
+}
+
+.icon-AlbbPDF:before {
+  content: "\e604";
+}
+
+.icon-Albb404:before {
+  content: "\e607";
+}
+
+.icon-Albbguide:before {
+  content: "\e608";
+}
+
+.icon-Albbstats-chart-sharp:before {
+  content: "\e922";
+}
+

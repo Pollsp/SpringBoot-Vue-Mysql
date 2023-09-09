@@ -1,0 +1,24 @@
+server:
+  port: 9090
+spring:
+#  data:
+#    mongodb:
+#      url: mongodb://admin:123456@127.0.0.1:27017/udb
+
+
+
+  #Mysql数据库信息
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/userdb?useUnicode=true&characterEncoding=utf-8&useSSL=true&serverTimezone=UTC
+    username: admin
+    password: admin
+
+mybatis-plus:
+  global-config:
+    db-config:
+      id-type: auto #id生成规则：数据库id自增
+
+
+
+
